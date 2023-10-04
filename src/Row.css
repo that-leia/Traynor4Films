@@ -1,5 +1,4 @@
 .row {
-    margin-left: 20px;
     background-color: #111;
 }
 
@@ -28,4 +27,8 @@
 
 .row__posterLarge {
     max-height: 250px;
+}
+
+.h2 {
+    color: white;
 }
